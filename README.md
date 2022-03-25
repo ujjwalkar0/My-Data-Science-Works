@@ -1,4 +1,4 @@
-# My Articles on Machine Learning
+## Articles
 
 [Getting Started](https://medium.com/ujjwalkar/concept-of-machine-learning-getting-start-562850486922)
 
